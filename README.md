@@ -1,4 +1,4 @@
-# Bayesian-Hyperparameter-Optimization
+# Bayesian Hyperparameter Optimization
 
 """The Hyperparameter Optimization uses the acquisition funtion
 (maximize this to improve the GP)
