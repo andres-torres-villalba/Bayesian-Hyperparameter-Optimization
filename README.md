@@ -5,8 +5,8 @@
 
 EI(x) = E [max {0,f8x9 - f(^x)}] ,
 
-This will explore the high dimensionality space of the hyperparameters and finds the
-hyperparamters that better improve the acquracy of the models. This is done while 
-the models are being trained."""
+ Gaussian Process uses a set of previously evaluated parameters and resulting accuracy to make 
+ an assumption about unobserved parameters. Acquisition Function using this information suggest 
+ the next set of parameters."""
 
 
