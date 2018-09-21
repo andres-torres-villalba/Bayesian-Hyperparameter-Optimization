@@ -6,5 +6,5 @@
 EI(x) = E [max {0,f8x9 - f(^x)}] ,
 
 This will explore a high dimensionality space and find the best hyperparameters
-to maximize the acquaracy of the models"""
+to maximize the acquaracy of the models while they are being trained"""
 
